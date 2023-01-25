@@ -1,9 +1,18 @@
 # work_day_scheduler
 
 ## Deployed URL
+https://gabetuason.github.io/work_day_scheduler/
 
 ## Description
-A simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+A simple calendar application that allows a user to save events for each hour of the day. 
+This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+The work event scheduler helps users manage their time properly. The browser app includes a date on the top and colored text events.
+Users will be able to input scheduled events and save in local storage with the save button on the right.
+past = gray 
+present = red 
+future = green
+Displays 9am - 5pm regular business hours.
 
 ## User Story
 AS AN employee with a busy schedule
@@ -31,4 +40,4 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Screenshot
-
+![Alt text](https://github.com/gabetuason/work_day_scheduler/blob/main/screenshotscheduler.PNG)
