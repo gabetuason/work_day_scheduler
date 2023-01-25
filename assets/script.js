@@ -2,7 +2,7 @@
 $(document).ready(function () {
     var timeBlock = $('.container-fluid');
 
-    for (i = 9; i < 17; i++) {
+    for (i = 9; i < 18; i++) {
         var containers = "hour-" + i; // 9am - 5pm loop
         var savedTextBox = localStorage.getItem(containers); // retrieving data from local storage for each of the boxes
         // gets the id of each container $(#hour-"#")
