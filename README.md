@@ -9,9 +9,9 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 The work event scheduler helps users manage their time properly. The browser app includes a date on the top and colored text events.
 Users will be able to input scheduled events and save in local storage with the save button on the right.
-past = gray 
-present = red 
-future = green
+past = gray, 
+present = red, 
+future = green.
 Displays 9am - 5pm regular business hours.
 
 ## User Story
